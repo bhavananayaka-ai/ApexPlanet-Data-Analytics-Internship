@@ -1,59 +1,168 @@
-# Task 4: Data Storytelling & Statistical Validation 📊
+# ApexPlanet Data Analytics Internship – Task 5
+## Capstone Integration & Portfolio Finalization
 
-# 📌 Internship Details
-- **Organization:** ApexPlanet Software Pvt. Ltd.
-- **Program:** 60-Day Data Analytics Internship
-- **Task:** Task 4 – Data Storytelling & Statistical Validation
-- **Tools & Technologies:** Python, Google Colab, Pandas, NumPy, Matplotlib, SciPy, Microsoft PowerPoint, GitHub
+Welcome to my final capstone project for the **60-Day Data Analytics Internship at ApexPlanet Software Pvt. Ltd.**
 
-## 🎯 Objective
-The objective of this task is to transform sales data into meaningful business insights through data analysis, visualization, statistical hypothesis testing, and storytelling. The goal is to communicate findings clearly and support business recommendations with statistical evidence.
+This repository brings together my learning, practical experience, data analysis work, and portfolio materials developed during the internship. Task 5 focuses on presenting my work professionally and consolidating the skills gained throughout the program.
 
-## 🛠️ Work Completed
-- Performed data cleaning and quality checks.
-- Analyzed key sales performance indicators and monthly revenue trends.
-- Compared sales performance across product categories and cities.
-- Conducted customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
-- Formulated null and alternative hypotheses for a business question.
-- Applied Welch’s independent-samples t-test to compare average customer spending between female and male customer groups.
-- Interpreted the p-value and 95% confidence interval.
-- Created charts and a professional presentation to communicate the findings.
-- Prepared a statistical summary and business recommendations.
+## 🎯 Project Objectives
 
-## 📈 Statistical Hypothesis Testing
-**Business Question:** Is average total spending per customer significantly different between female and male customers?
+- Integrate and organize the work completed during the internship.
+- Perform data cleaning, exploratory data analysis (EDA), and business analysis.
+- Analyze sales performance using Python and data visualization.
+- Prepare a final analytical report and presentation.
+- Organize internship projects into a professional GitHub portfolio.
+- Summarize the technical skills and lessons learned during the internship.
 
-- **Null Hypothesis (H₀):** The average total spending per customer is equal for female and male customers.
-- **Alternative Hypothesis (H₁):** The average total spending per customer differs between female and male customers.
-- **Significance Level:** 0.05 (5%)
-- **Statistical Test:** Welch’s independent-samples t-test
-- **Confidence Level:** 95%
+## 🛠️ Tools and Technologies
 
-The p-value and confidence interval are used to assess whether the observed difference provides sufficient statistical evidence to reject the null hypothesis. The conclusion should be based on the actual results produced by the analysis.
-
-## 📊 Key Deliverables
-- **Jupyter Notebook:** Data cleaning, analysis, visualizations, and hypothesis testing.
-- **PowerPoint Presentation:** A concise business-focused data story.
-- **Statistical Report:** Summary of key performance indicators and hypothesis-testing results.
-- **Visualizations:** Monthly revenue, category revenue, city revenue, and RFM customer segments.
-- **Findings Summary:** Key observations and data-driven recommendations.
-
-💻 Tools Used
-- **Python** – Data analysis and statistical calculations
-- **Pandas & NumPy** – Data cleaning and manipulation
+- **Python** – Data analysis and automation
+- **Pandas** – Data manipulation and cleaning
+- **NumPy** – Numerical computations
 - **Matplotlib** – Data visualization
 - **SciPy** – Statistical hypothesis testing
-- **Google Colab** – Cloud-based coding environment
-- **Microsoft PowerPoint / Google Slides** – Presentation and storytelling
-- **GitHub** – Project documentation and version control
+- **Jupyter Notebook / Google Colab** – Interactive analysis
+- **Microsoft Excel** – Analytical reports and summaries
+- **PowerPoint** – Final capstone presentation
+- **GitHub** – Version control and portfolio management
+- **LinkedIn** – Professional project presentation
 
-💡 Learning Outcomes
-- Improved skills in data cleaning and exploratory analysis.
-- Learned to communicate insights through clear visualizations.
-- Practiced customer segmentation using RFM analysis.
-- Gained practical experience with hypothesis testing, p-values, and confidence intervals.
-- Learned to translate analytical findings into business recommendations.
-- Strengthened data storytelling and presentation skills.
+## 📊 Capstone Project Overview
+
+The capstone project focuses on analyzing a sales dataset to identify business trends, evaluate sales performance, and generate useful insights.
+
+The analysis includes:
+
+1. **Data Loading and Cleaning**
+   - Load the sales dataset.
+   - Check for missing values and duplicate records.
+   - Convert dates and numerical columns into appropriate formats.
+   - Validate sales calculations and prepare the cleaned dataset.
+
+2. **Exploratory Data Analysis**
+   - Examine sales patterns and dataset characteristics.
+   - Analyze revenue by month, product category, and city.
+   - Identify products with strong sales performance.
+
+3. **Key Performance Indicators**
+   - Calculate total revenue.
+   - Analyze total orders and quantities sold.
+   - Identify leading product categories and cities.
+
+4. **Customer Analysis**
+   - Perform customer-level spending analysis.
+   - Apply RFM segmentation using Recency, Frequency, and Monetary value.
+   - Explore differences in customer spending using statistical hypothesis testing.
+
+5. **Data Visualization**
+   - Monthly revenue trends.
+   - Revenue by product category.
+   - Revenue by city.
+   - Customer segmentation analysis.
+
+6. **Final Reporting**
+   - Generate an Excel analytical report.
+   - Export the cleaned dataset.
+   - Create a final PowerPoint presentation.
+   - Organize the project files for portfolio submission.
+
+## 📁 Project Structure
+
+```text
+ApexPlanet-Data-Analytics-Internship/
+│
+├── Task-1/
+│   └── Data analysis project files
+│
+├── Task-2/
+│   └── Data analysis project files
+│
+├── Task-3/
+│   └── Power BI dashboard project files
+│
+├── Task-4/
+│   └── Data analytics project files
+│
+├── Task-5/
+│   ├── charts/
+│   │   ├── monthly_revenue.png
+│   │   ├── category_revenue.png
+│   │   ├── city_revenue.png
+│   │   └── rfm_segments.png
+│   ├── Capstone_Analysis_Report.xlsx
+│   ├── cleaned_sales_dataset.csv
+│   ├── Final_Capstone_Presentation.pptx
+│   ├── LinkedIn_Final_Post.txt
+│   └── README.md
+│
+└── README.md
+```
+
+*Note: Update the folder names and filenames above to match the files actually uploaded to your repository.*
+
+## 📈 Expected Deliverables
+
+- Cleaned sales dataset in CSV format.
+- Excel workbook containing analytical summaries and results.
+- Charts highlighting sales and customer trends.
+- PowerPoint presentation summarizing the capstone project.
+- LinkedIn post describing the internship experience.
+- Organized GitHub portfolio containing the internship tasks.
+
+## 💡 Key Learnings
+
+Through this internship, I developed practical experience in:
+
+- Data cleaning and preprocessing.
+- Exploratory data analysis.
+- Data aggregation and KPI calculation.
+- Statistical analysis and hypothesis testing.
+- Customer segmentation techniques.
+- Data visualization and insight communication.
+- Generating analytical reports using Python.
+- Preparing presentations and maintaining project documentation.
+- Managing and presenting projects using GitHub.
+
+## 🔗 Internship Task Repositories
+
+Add the actual URLs of your completed task repositories or folders below.
+
+- **Task 1:** [Insert Task 1 GitHub link]
+- **Task 2:** [Insert Task 2 GitHub link]
+- **Task 3:** [Insert Task 3 GitHub link]
+- **Task 4:** [Insert Task 4 GitHub link]
+- **Task 5 – Capstone Portfolio:** [Insert Task 5 folder or repository link]
+
+## 🚀 How to Run the Project
+
+1. Open the project in Google Colab or Jupyter Notebook.
+2. Upload the sales dataset.
+3. Install the required Python libraries:
+
+   ```python
+   !pip install pandas numpy matplotlib scipy openpyxl python-pptx
+   ```
+
+4. Run the analysis code in sequence.
+5. Review the generated charts and analytical results.
+6. Open the Excel report and PowerPoint presentation to explore the findings.
+
+## 🌱 Conclusion
+
+Task 5 represents the final stage of my Data Analytics Internship at ApexPlanet Software Pvt. Ltd. It brings together the practical skills, project experience, and analytical techniques developed throughout the internship.
+
+This capstone portfolio demonstrates my learning journey in Python-based data analysis, data visualization, statistical analysis, reporting, and professional project documentation.
+
+I look forward to applying these skills to real-world data analytics problems and continuing to grow as a data analytics professional.
+
+---
+
+**Internship:** 60-Day Data Analytics Internship  
+**Organization:** ApexPlanet Software Pvt. Ltd.  
+**Task:** Task 5 – Capstone Integration & Portfolio Finalization
+
+*Thank you for visiting my project portfolio!*
+
 
 
 
